@@ -20,3 +20,21 @@ Real-world loan dataset with 9,000+ records including borrower financial and cre
 - Credit score impact
 - Income vs loan repayment
 - Risk segmentation
+
+## 📈 Key Insights
+- The overall loan default rate is approximately XX%
+- Borrowers with lower credit scores (FICO) have higher default risk
+- High debt-to-income (DTI) ratio is strongly associated with default
+- Certain loan purposes show higher default tendencies
+
+## 🧠 Skills Demonstrated
+- Data Cleaning using SQL
+- Feature Engineering (default_flag creation)
+- Data Analysis & Aggregation
+- Business Insight Generation
+- Data Storytelling
+
+## 📊 Next Steps
+- Build interactive dashboard in Power BI
+- Visualize default risk trends
+- Create KPI metrics for business decision-making
