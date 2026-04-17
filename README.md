@@ -22,7 +22,7 @@ Real-world loan dataset with 9,000+ records including borrower financial and cre
 - Risk segmentation
 
 ## 📈 Key Insights
-- The overall loan default rate is approximately XX%
+- The overall loan default rate is approximately 16.23%
 - Borrowers with lower credit scores (FICO) have higher default risk
 - High debt-to-income (DTI) ratio is strongly associated with default
 - Certain loan purposes show higher default tendencies
