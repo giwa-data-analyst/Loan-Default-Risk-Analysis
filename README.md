@@ -49,3 +49,16 @@ Explore the full interactive dashboard:👉 [Download Power BI File](powerbi/loa
 - Build interactive dashboard in Power BI
 - Visualize default risk trends
 - Create KPI metrics for business decision-making
+
+## ✅ Conclusion
+
+This project provided valuable insights into the key factors influencing loan default risk, including credit score, income level, debt-to-income ratio, and loan purpose.
+
+Through this analysis, I demonstrated the ability to transform raw data into meaningful business insights using SQL, Excel, and Power BI. The interactive dashboard further highlights how data can support informed decision-making in financial risk assessment.
+
+This project reflects my growing expertise in data analytics, particularly in data cleaning, analysis, and storytelling.
+
+Developed by: Giwa Aaron Babatunde
+Role: Aspiring Data Analyst | Open to Opportunities
+
+GitHub: https://github.com/giwa-data-analyst
