@@ -57,7 +57,7 @@ This project provided valuable insights into the key factors influencing loan de
 Through this analysis, I demonstrated the ability to transform raw data into meaningful business insights using SQL, Excel, and Power BI. The interactive dashboard further highlights how data can support informed decision-making in financial risk assessment.
 
 This project reflects my growing expertise in data analytics, particularly in data cleaning, analysis, and storytelling.
-
+<br>
 
 **Developed by**: Giwa Aaron Babatunde
 
