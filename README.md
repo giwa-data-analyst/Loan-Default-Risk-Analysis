@@ -30,6 +30,14 @@ Explore the full interactive dashboard:👉 [Download Power BI File](powerbi/loa
 - Loan purpose influences default risk, with small business loans showing the highest default rate (~28%), followed by educational loans (~20%), suggesting higher uncertainty in these categories.
 - Lower-income borrowers exhibit higher default rates (~22%) compared to medium (~16%) and high-income (~15%) groups, indicating income level significantly impacts repayment ability.
 
+## 📸 Dashboard Preview
+
+<br>
+
+<img src="images/loan_analysis_dashboards.png" width="800"/>
+
+<br>
+
 ## 🧠 Skills Demonstrated
 - Data Cleaning using SQL
 - Feature Engineering (default_flag creation)
