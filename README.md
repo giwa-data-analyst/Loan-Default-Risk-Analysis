@@ -13,9 +13,10 @@ This project analyzes loan data to identify factors that influence loan default 
 To identify high-risk borrowers and provide data-driven insights for better lending decisions.
 
 ## 📁 Dataset
-Real-world loan dataset with 9,000+ records including borrower financial and credit information.[Download data here: ](data/loan-dataset.csv)
+Real-world loan dataset with 9,000+ records including borrower financial and credit information.
+[Download data here: ](data/loan-dataset.csv)
 
-## Explore the full interactive dashboard:
+Explore the full interactive dashboard:
 👉 [Download Power BI File](powerbi/loan_analysis.pbix)
 
 ## 🔍 Key Analysis Areas
