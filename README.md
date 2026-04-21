@@ -22,10 +22,11 @@ Real-world loan dataset with 9,000+ records including borrower financial and cre
 - Risk segmentation
 
 ## 📈 Key Insights
-- The overall loan default rate is approximately 16.23%
-- Borrowers with lower credit scores (FICO) have higher default risk
-- High debt-to-income (DTI) ratio is strongly associated with default
-- Certain loan purposes show higher default tendencies
+- The overall loan default rate is approximately 16.23%, indicating a moderate level of credit risk across the portfolio.
+- Borrowers with low credit scores (FICO < 650) have the highest default rate at approximately 32%, compared to 20% for medium and 12% for high credit score borrowers.
+- Borrowers with high debt-to-income ratios show higher default rates (18.32%) compared to medium (16.11%) and low (14.83%), highlighting financial burden as a key risk factor.
+- Loan purpose influences default risk, with small business loans showing the highest default rate (~28%), followed by educational loans (~20%), suggesting higher uncertainty in these categories.
+- Lower-income borrowers exhibit higher default rates (~22%) compared to medium (~16%) and high-income (~15%) groups, indicating income level significantly impacts repayment ability.
 
 ## 🧠 Skills Demonstrated
 - Data Cleaning using SQL
