@@ -63,3 +63,12 @@ This project reflects my growing expertise in data analytics, particularly in da
 **Role:** Aspiring Data Analyst | Open to Opportunities
 
 **GitHub:** https://github.com/giwa-data-analyst
+
+## 🤝 Let’s Connect
+
+I am open to collaborating on data projects and actively seeking opportunities in data analytics.
+
+If you’re a recruiter, hiring manager, or fellow data professional, feel free to connect with me.
+
+**GitHub:** https://github.com/giwa-data-analyst  
+**LinkedIn:** www.linkedin.com/in/giwa-data-analyst
