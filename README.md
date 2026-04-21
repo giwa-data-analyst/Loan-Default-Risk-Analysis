@@ -58,8 +58,8 @@ Through this analysis, I demonstrated the ability to transform raw data into mea
 
 This project reflects my growing expertise in data analytics, particularly in data cleaning, analysis, and storytelling.
 
-Developed by: Giwa Aaron Babatunde
+**Developed by**: Giwa Aaron Babatunde
 
-Role: Aspiring Data Analyst | Open to Opportunities
+**Role:** Aspiring Data Analyst | Open to Opportunities
 
-GitHub: https://github.com/giwa-data-analyst
+**GitHub:** https://github.com/giwa-data-analyst
